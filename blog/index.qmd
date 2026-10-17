@@ -1,0 +1,23 @@
+---
+title: "Writing"
+description: "Essays and notes on statistics, AI, data science, and human outcomes."
+listing:
+  contents: ../posts/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+  fields: [date, title, description, categories]
+---
+
+:::: {.page-intro}
+::: {.eyebrow}
+Essays · Field notes · Explorations
+:::
+
+# Writing
+
+Notes and essays at the intersection of statistical thinking, technology, and human outcomes.
+::::

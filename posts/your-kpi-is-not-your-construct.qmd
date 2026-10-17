@@ -1,0 +1,34 @@
+---
+title: "Your KPI Is Not Your Construct"
+description: "What measurement theory can teach us about the metrics we use to make decisions."
+author: "Your Name"
+date: 2026-11-01
+categories:
+  - Measurement
+  - Data science
+draft: true
+---
+
+::: {.article-lede}
+A metric can be useful for making a decision without being a valid representation of the broader phenomenon people assume it measures.
+:::
+
+## The question behind the number
+
+Start with a concrete example. What does the metric appear to tell us, and what do people tend to infer from it?
+
+## A useful metric is not automatically a valid measure
+
+Develop the distinction between an operational definition and the broader concept it is meant to represent. Explain when a proxy is useful, and where its interpretation becomes too ambitious.
+
+## What this means for analysis
+
+Connect the argument to practical analytical choices: data collection, denominator definitions, instrumentation, model selection, and the decisions a metric is supposed to inform.
+
+## Conclusion
+
+Return to the central question. What should an analyst check before treating a number as evidence about a wider phenomenon?
+
+---
+
+*Editorial note: replace this scaffold with your own argument and examples before publishing. Do not include confidential employer or client information.*

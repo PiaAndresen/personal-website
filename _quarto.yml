@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  description: "Writing on statistics, AI, data science, and human outcomes."
+  navbar:
+    title: "Your Name"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: blog/index.qmd
+        text: Writing
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/YOUR-USERNAME
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Your Name"
+    right: "Built with Quarto"
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true
+    code-copy: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,34 @@
+---
+title: "Am I Getting Better at My Job, or Just Faster?"
+description: "Field notes on how AI affects productivity, learning, quality, and independent judgment."
+author: "Your Name"
+date: 2026-11-15
+categories:
+  - AI
+  - Work
+draft: true
+---
+
+::: {.article-lede}
+AI tools can make some tasks faster. The more interesting question is what happens to the quality of the work, the learning behind it, and our ability to judge the result.
+:::
+
+## Why I'm paying attention
+
+Explain the question that motivates this series and what you hope to learn from observing your own work.
+
+## What I will pay attention to
+
+- **Speed:** How long does a task take, including checking and correction?
+- **Quality:** What errors, omissions, or rework appear?
+- **Learning:** Can I explain and reproduce the solution independently later?
+- **Judgment:** Can I recognize when an answer is wrong or inappropriate?
+- **Independence:** What happens when the tool is unavailable?
+
+## What this can and cannot tell me
+
+A personal field note is not a controlled experiment. Experience, task difficulty, and changing responsibilities can also affect performance. The aim is to document observations honestly, not to claim that one person's experience settles the broader debate.
+
+## First observations
+
+Add your observations over time. Keep all employer, client, and other confidential information out of the article.

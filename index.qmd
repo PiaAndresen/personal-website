@@ -1,0 +1,65 @@
+---
+title: ""
+page-layout: full
+---
+
+:::: {.hero}
+::: {.eyebrow}
+Statistics · Technology · Human outcomes
+:::
+
+# Understanding people through data.
+
+I work at the intersection of statistical methods, data science, and the measurement of human outcomes.
+
+This is a space for my work and writing on how we collect evidence, build models, and use technology to make better decisions.
+
+[Explore my writing →](blog/index.qmd){.button-link}
+[More about me →](about.qmd){.text-link}
+::::
+
+:::: {.home-section}
+::: {.section-heading}
+::: {.eyebrow}
+On the writing desk
+:::
+## Ideas worth exploring
+:::
+
+:::: {.featured-writing}
+::: {.featured-item}
+::: {.eyebrow}
+Measurement · Data science
+:::
+### Your KPI Is Not Your Construct
+
+What measurement theory can teach us about the metrics we use to make decisions.
+
+*Essay in progress*
+:::
+
+::: {.featured-item}
+::: {.eyebrow}
+AI · Work
+:::
+### Am I Getting Better at My Job, or Just Faster?
+
+A field note on what AI changes about productivity, learning, quality, and independent judgment.
+
+*Essay in progress*
+:::
+::::
+::::
+
+:::: {.home-section}
+::: {.section-heading}
+::: {.eyebrow}
+What I work on
+:::
+## Research, methods, and applied questions
+:::
+
+My interests include statistical modeling, longitudinal data, measurement and psychometrics, AI, and applied analytics. I'm especially interested in the gap between what our data appear to say and what we can reasonably conclude from them.
+
+[More about my background →](about.qmd)
+::::

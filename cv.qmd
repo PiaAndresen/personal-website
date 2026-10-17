@@ -1,0 +1,73 @@
+---
+title: "Curriculum Vitae"
+description: "Professional experience, education, and selected work."
+---
+
+:::: {.page-intro}
+::: {.eyebrow}
+Experience · Education · Selected work
+:::
+
+# Curriculum vitae
+
+A summary of my professional experience, research background, and technical skills.
+::::
+
+[Download CV as PDF](assets/cv.pdf){.button-link}
+
+## Professional experience
+
+:::: {.cv-entry}
+::: {.cv-date}
+Current
+:::
+::: {.cv-detail}
+### Senior Statistical Consultant
+
+**IQVIA · Serbia**
+
+Add a concise description of your role, responsibilities, and the problems you work on. Keep this focused on your contribution and expertise.
+:::
+::::
+
+:::: {.cv-entry}
+::: {.cv-date}
+Previous
+:::
+::: {.cv-detail}
+### Data science / analytics
+
+**Previous employer**
+
+Add your role, dates, and two or three evidence-based achievements. Describe the problem, what you built or changed, and the impact.
+:::
+::::
+
+## Education
+
+:::: {.cv-entry}
+::: {.cv-date}
+Dates
+:::
+::: {.cv-detail}
+### PhD in Methods & Statistics
+
+**Utrecht University**
+
+Research in quantitative methods, intensive longitudinal data, and statistical modeling. Replace this description with your final thesis title and dates when appropriate.
+:::
+::::
+
+## Selected publications and talks
+
+Add selected publications, conference presentations, or invited talks here. Link each item to a DOI, publisher page, or repository where available.
+
+## Technical skills
+
+**Statistical methods:** longitudinal and multilevel modeling, Bayesian methods, psychometrics, time-series analysis.
+
+**Tools:** R, Mplus, Quarto, Git/GitHub. Add or remove skills to reflect your current work.
+
+---
+
+*For a complete publication list or further details, please get in touch.*

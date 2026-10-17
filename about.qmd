@@ -1,0 +1,43 @@
+---
+title: "About"
+description: "My background, interests, and approach to data."
+---
+
+:::: {.page-intro}
+::: {.eyebrow}
+A little context
+:::
+
+# About me
+
+I'm interested in how we use data to understand people, make decisions, and build better systems.
+::::
+
+My background combines quantitative psychological research, statistical modeling, and applied analytics. I'm particularly interested in the questions that arise when rigorous methods meet real-world problems.
+
+I enjoy thinking not only about which methods work, but also about what our data actually allow us to conclude, which assumptions we make along the way, and how analytical work translates into useful decisions.
+
+## Areas of interest
+
+:::: {.interest-grid}
+::: {.interest-item}
+### Statistical methods
+Longitudinal data, multilevel models, Bayesian methods, and the relationship between model assumptions and the questions we want to answer.
+:::
+::: {.interest-item}
+### Measurement
+Psychometrics, construct validity, outcome measurement, and the difference between a useful metric and a meaningful measure.
+:::
+::: {.interest-item}
+### AI and applied data science
+How AI changes analytical work, where automation creates real value, and how to evaluate the quality of machine-assisted decisions.
+:::
+::: {.interest-item}
+### Health technology
+Digital health, clinical outcomes, and the challenge of producing trustworthy evidence about human experiences.
+:::
+::::
+
+## A note on this website
+
+This site is a home for independent writing, research interests, and selected projects. The views expressed here are my own and do not represent those of any employer or institution.
